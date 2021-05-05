@@ -1,0 +1,23 @@
+*{
+
+}
+body{
+   background:url(../geu.jpg) fixed no-repeat ;
+   color:wheat;
+    background-size:cover;
+   padding:0;
+   margin:0;
+   font-family:"Open Sans",sans-serif;
+    } 
+    .color{
+       color:hotpink;
+         }
+  .design{
+       color:green;
+        }
+         h1
+         {
+              text-align: center;color:blue;
+          }
+          h2{color:green}
+          h3{color:indigo}
